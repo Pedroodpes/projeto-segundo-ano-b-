@@ -1,6 +1,5 @@
 .cabecalho-geral{
-    color: white;
-    background-color: rgba(238, 7, 7, 0.986);
+    background-color: aqua;
     text-align: center;
     }
 .tit-1-secao{
@@ -14,4 +13,7 @@ body{
 .titulo-cabecalho{
     font-family: Arial, Helvetica, sans-serif;
 font-size: 50px;
+}
+.rodape{
+     background-color: red;
 }
